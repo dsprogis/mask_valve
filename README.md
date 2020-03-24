@@ -10,6 +10,11 @@ The commercially available solution (shown on the left) has a valve that blocks 
 
 This project contains print files for the two 3D printed parts (shown on the right).  They can be assembled and affixed to a coffee filter, along with a small circular piece of 3mil plastic bag, as shown on the right.
 
+## Remaining issues:
+This solution does not solve two other problems:
+1. securing the mask to the face and
+1. making a seal against the contour of the face.
+
 ## Assembly
 ![step 1](/images/image1-2.jpg)
 
