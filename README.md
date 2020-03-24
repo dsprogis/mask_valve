@@ -12,7 +12,7 @@ This project contains print files for the two 3D printed parts (shown on the rig
 
 ## Remaining issues:
 This solution does not solve two other problems:
-1. securing the mask to the face and
+1. securing the mask to the head (presumably with straps) and
 1. making a seal against the contour of the face.
 
 ## Assembly
